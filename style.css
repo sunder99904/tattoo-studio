@@ -1,11 +1,8 @@
-
-/* style */
 body {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
 }
-
 .header {
   width: 100%;
 }
@@ -122,7 +119,7 @@ hr {
   padding: 10px;
   cursor: pointer;
   position: absolute;
-  right: 80px;
+  right: 50px;
   font-size: 18px;
 }
 
@@ -349,7 +346,7 @@ font-size: 4.5rem;
 
 .container{
   text-align: center;
-    width: 60%;
+    width: 90%;
     font-family: sans-serif;
     margin: 60px auto;
 }
